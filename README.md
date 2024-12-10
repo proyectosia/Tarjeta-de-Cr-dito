@@ -1,4 +1,4 @@
-# Tarjeta-de-Cr-dito
+# Tarjeta-de-Credito
 Modelos ML para la Identificación de la Potencial Fuga de Clientes en un Banco Peruano
 ## 💻 Contribuidores
 <br /><sub><b>Arnold Cornejo </b></sub>
